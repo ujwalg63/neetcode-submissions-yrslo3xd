@@ -1,3 +1,4 @@
+//Brute force solution (O(n2))
 public class Solution {
     public int[] ProductExceptSelf(int[] nums) {
         int[] resultant = new int[nums.Length];
